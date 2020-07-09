@@ -24,7 +24,7 @@ public class MailSender {
 	// constructor
 	public MailSender() {
 		myAccount = "riponoja9@gmail.com";
-		password = "SaltBrookian";
+		password = "**********";
 		properties = new Properties();
 		properties.put("mail.smtp.auth", "true");
 		properties.put("mail.smtp.starttls.enable", "true");
